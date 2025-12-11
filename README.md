@@ -4,7 +4,7 @@ emoji: 🚀
 colorFrom: blue
 colorTo: red
 sdk: streamlit
-app_file:app.py 
+app_file: app.py 
 pinned: true
 short_description: yolo animal detection in hugging faces
 ---
